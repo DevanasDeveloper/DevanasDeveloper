@@ -59,7 +59,7 @@ Feel free to explore my repositories and reach out for **collaborations** or **t
 
 <h2> My Skills</h2>
 
-[![My Skills]([https://skillicons.dev/icons?i=js,html,css,jquery,vue,laravel,react,flutter,kotlin,bootstrap,tailwind,mysql,mongodb,wordpress,git)](https://skillicons.dev](https://skillicons.dev/icons?i=js,html,css,jquery,vue,laravel,react,flutter,bootstrap,mysql,mongodb,wordpress,git)](https://skillicons.dev))
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,jquery,vue,laravel,react,flutter,bootstrap,mysql,mongodb,wordpress,git)](https://skillicons.dev)
 
 <h2>Stats</h2>
 
@@ -68,7 +68,6 @@ Feel free to explore my repositories and reach out for **collaborations** or **t
     <tr>
       <td><img src="https://github-readme-stats.vercel.app/api?username=DevanasDeveloper&show_icons=true&theme=dark" alt="Anas's GitHub stats"/></td>
       <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevanasDeveloper&layout=compact&theme=dark" alt="Top Langs"/></td>
-      <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=DevanasDeveloper&theme=dark" alt="GitHub Streak"/></a></td>
     </tr>
   </table>
 </p>
