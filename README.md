@@ -21,8 +21,11 @@ I'm a passionate Full Stack Developer with expertise in both front-end and back-
 - **SQL:** MySQL, SQLite  
 - **NoSQL:** MongoDB  
 
-### 🔄 Version Control  
-- **Tool:** Git  
+### 🔄 Version Control and DevOps  
+- **Tool:** Git, GitHub, GitHub Actions 
+
+### 🤖 AI Assisted Development  
+AI powered development using Cursor and Claude to accelerate coding, debugging, and feature development.
 
 ## 🌟 Professional Experience  
 
@@ -37,7 +40,10 @@ I'm a passionate Full Stack Developer with expertise in both front-end and back-
 
 ### 💼 Full Stack Developer | Helloworld Agency (Current)  
 - Developing **websites** and **platforms** using **PHP & Laravel**.  
-- Worked on **mobile applications**, adding new features and fixing bugs. 
+- Worked on **mobile applications**, adding new features and fixing bugs.
+
+### 📱 Mobile Application Developer | eGrow  
+Developing and maintaining the mobile application using Flutter. The application allows businesses to manage orders, customer conversations, and sales activities from mobile devices. Integrated REST APIs to synchronize real time data between the mobile app and backend services. Focused on responsive UI and performance optimization for Android devices while using AI assisted development tools such as Cursor and Claude to accelerate development and feature delivery.
 
 ## 🎓 Education  
 
